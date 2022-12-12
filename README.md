@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain Technology 
 - 🌱 I’m currently learning blockchain Technology through NITDA Blockchain Scholarship 
 - 💞️ I’m looking to collaborate on Blockchain projects
-- 📫 How to reach me always 
+- 📫 You can reach me always 
 
 <!---
 Valipo2020/Valipo2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
